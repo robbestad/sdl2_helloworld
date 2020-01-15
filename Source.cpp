@@ -1,7 +1,7 @@
+#define SDL_MAIN_HANDLED
 #include <SDL.h>
 #include <cstdlib>
 #include <iostream>
-#undef main
 
 int main()
 {
